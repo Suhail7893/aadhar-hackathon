@@ -106,6 +106,6 @@ This project is created for hackathon and educational purposes only.
 
 ---
 
-**Shaik Raihan Basha**<br>
+**Shaik Suhail**<br>
 Team Lead
 
